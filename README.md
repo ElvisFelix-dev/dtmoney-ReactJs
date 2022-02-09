@@ -5,7 +5,7 @@
 <p align="center">“Saber exaltar as coisas lindas e boas da vida!"</blockquote>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ElvisFelix-dev/ReactJs?style=flat">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ElvisFelix-dev/dtmoney-ReactJs?style=flat">
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Elvis Felix" src="https://img.shields.io/badge/made%20by-Elvis%20Felix-orange">
